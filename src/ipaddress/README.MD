@@ -1,4 +1,4 @@
-# ipaddress module
+# ipaddress
 
 Code for playing with Python’s ipaddress module.
 
