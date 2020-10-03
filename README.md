@@ -38,26 +38,14 @@
 * [References](#references)
 * [Authors](#Authors)
 
-
-<!-- Atualizar -->
 ## About the Project
-There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need.
+There are many excellent python tutorial repositories available on GitHub, however, I want to create this one with the aim of improving my code skills and, if possible, helping others as well.
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should element DRY principles to the rest of your life :smile:
-
-<!-- Atualizar -->
 ### Built With
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-* [frameworks](https://www.google.com/)
-* [frameworks 2](https://www.google.com/)
-* [frameworks 3](https://www.google.com/)
+No frameworks for now.
+<!--* [frameworks](https://www.google.com/) -->
 
-<!-- Atualizar -->
 ## Getting Started
-This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
 
 <!-- Atualizar -->
@@ -68,27 +56,22 @@ This is an example of how to list things you need to use the software and how to
 apt-get install python3
 ```
 
-<!-- Atualizar -->
 ### Installation
 1. Clone the repo
 ```sh
 git clone https://github.com/rodrigodalri/python-codes.git
 ```
 
-<!-- Atualizar -->
 ### Versioning
 No versioning for now.
 
-<!-- Atualizar -->
 ## Usage
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
+This project is to be used as learning and improving code skills.
 
 ## Roadmap
 See the [open issues](https://github.com/rodrigodalri/python-codes/issues) for a list of proposed features (and known issues).
 
 ## Contributing
-
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
 1. Fork the Project
@@ -101,7 +84,6 @@ Contributions are what make the open source community such an amazing place to b
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Acknowledgements
-
 No acknowledgements for now.
 
 ## References
@@ -109,7 +91,6 @@ List of sites consulted.
 - REAL PYTHON. 2020. Disponível em: <https://realpython.com/>.
 
 ## Authors
-
 <table style="text-align: center;">
   <tr>
     <th>Contributors</th>
