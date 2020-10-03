@@ -124,7 +124,7 @@ See also the full list of [contributors](https://github.com/rodrigodalri/python-
 [issues-url]: https://github.com/rodrigodalri/python-codes/issues
 
 [license-shield]: https://img.shields.io/github/license/rodrigodalri/python-codes
-[license-url]: https://github.com/rodrigodalri/python-codes/LICENSE.md
+[license-url]: https://github.com/rodrigodalri/python-codes/blob/master/LICENSE
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/rodrigodalri
