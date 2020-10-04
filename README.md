@@ -51,7 +51,7 @@ To get a local copy up and running follow these simple example steps.
 <!-- Atualizar -->
 ### Prerequisites
 This is an example of how to list things you need to use the software and how to install them.
-* Python 3.5 or greater
+* Python 3.7 or greater
 ```sh
 apt-get install python3
 ```
@@ -60,6 +60,10 @@ apt-get install python3
 1. Clone the repo
 ```sh
 git clone https://github.com/rodrigodalri/python-codes.git
+```
+2. Install pip requirements
+```sh
+pip3 install -r requirements.txt
 ```
 
 ### Versioning
