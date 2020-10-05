@@ -13,11 +13,25 @@ jobs:
       uses: actions/setup-python@v1      
       with:
         python-version: 3.8
-        python-root-list: 'src/argparse src/async src/concurrency src/ipaddress src/sockets src/sort src/threads src/tricks'
+        #python-root-list: 
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
         pip install pylint
     - name: Analysing the code with pylint
       run: |
+        cd src/argparse 
         pylint `ls -R|grep .py$|xargs`
+        cd src/async 
+        pylint `ls -R|grep .py$|xargs`
+        cd src/concurrency 
+        pylint `ls -R|grep .py$|xargs`
+        cd src/ipaddress 
+        pylint `ls -R|grep .py$|xargs`
+        cd src/sockets 
+        pylint `ls -R|grep .py$|xargs`
+        cd src/sort 
+        pylint `ls -R|grep .py$|xargs`
+        cd src/threads 
+        pylint `ls -R|grep .py$|xargs`
+        cd src/tricks
