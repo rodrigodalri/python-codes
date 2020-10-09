@@ -92,7 +92,8 @@ No acknowledgements for now.
 
 ## References
 List of sites consulted.
-- REAL PYTHON. 2020. Disponível em: <https://realpython.com/>.
+- REAL PYTHON. 2020. Available in: <https://realpython.com/>.
+- THE ALGORITHMS. 2020. Available in: <https://github.com/TheAlgorithms/Python>.
 
 ## Authors
 <table style="text-align: center;">
