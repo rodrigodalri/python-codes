@@ -41,3 +41,18 @@ print(xs)
 import operator
 sorted(xs.items(), key=operator.itemgetter(1))
 print(xs)
+
+
+#------------------------------------------------------------------------------------------------------------------------------------
+# Using namedtuple is way shorter than defining a class manually:
+from collections import namedtuple
+
+Car = namedtuple('Car', 'color mileage')
+
+# Our new "Car" class works as expected:
+my_car = Car('red', 3812.4)
+print(my_car.color)
+print(my_car.mileage)
+
+# We get a nice string repr for free:
+print(my_car)
